@@ -1,0 +1,36 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{f2a71f9b-5d33-465a-a702-920d77279786}") = "jwtverify", "jwtverify\jwtverify.fsproj", "{D506866A-F409-4260-A0A5-C963814C308C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D506866A-F409-4260-A0A5-C963814C308C}.Debug|x86.ActiveCfg = Debug|x86
+		{D506866A-F409-4260-A0A5-C963814C308C}.Debug|x86.Build.0 = Debug|x86
+		{D506866A-F409-4260-A0A5-C963814C308C}.Release|x86.ActiveCfg = Release|x86
+		{D506866A-F409-4260-A0A5-C963814C308C}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.inheritsSet = VisualStudio
+		$1.scope = text/plain
+		$1.FileWidth = 140
+		$1.EolMarker = Unix
+		$1.inheritsScope = text/plain
+		$0.FSharpFormattingPolicy = $2
+		$2.DefaultFormat = $3
+		$3.IndentOnTryWith = False
+		$3.ReorderOpenDeclaration = False
+		$3.SpaceAfterComma = True
+		$3.SpaceAfterSemicolon = True
+		$3.SpaceAroundDelimiter = True
+		$3.SpaceBeforeArgument = True
+		$3.SpaceBeforeColon = True
+		$2.scope = text/x-fsharp
+	EndGlobalSection
+EndGlobal
